@@ -14,3 +14,7 @@ pip install -r requirements.txt
 ## Run server:
 
 uvicorn main:app --reload
+
+## 25.11.26:
+try yfinance
+
