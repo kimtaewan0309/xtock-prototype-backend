@@ -18,3 +18,5 @@ uvicorn main:app --reload
 ## 25.11.26:
 try yfinance
 
+## 25.11.28:
+connect mongoDB
